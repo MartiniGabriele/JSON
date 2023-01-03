@@ -1,18 +1,18 @@
 [{
-    "pagina1":{
+    "pagina":{
         "contenuto":"Sei sulla prima pagina",
         "immagine":"https://www.targatocn.it/typo3temp/pics/C_bb247ae07c.jpg"
     },
-    "pagina2":{
+    "pagina":{
         "contenuto":"Sei sulla seconda pagina",
         "immagine":"https://www.targatocn.it/typo3temp/pics/C_bb247ae07c.jpg"
     },
-    "pagina3":{
+    "pagina":{
         "contenuto":"Sei sulla terza pagina",
         "immagine":"https://www.targatocn.it/typo3temp/pics/C_bb247ae07c.jpg"
     },
-    "pagina4":{
+    "pagina":{
         "contenuto":"Sei sulla quarta pagina",
-        "immagine":"https://www.targatocn.it"
+        "immagine":"https://www.targatocn.it/typo3temp/pics/C_bb247ae07c.jpg"
     }
 }]
