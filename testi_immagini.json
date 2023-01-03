@@ -1,4 +1,4 @@
-{[
+[{
     "pagina1":{
         "contenuto":"Sei sulla prima pagina",
         "immagine":"https://www.targatocn.it/typo3temp/pics/C_bb247ae07c.jpg"
@@ -15,4 +15,4 @@
         "contenuto":"Sei sulla quarta pagina",
         "immagine":"https://www.targatocn.it/typo3temp/pics/C_bb247ae07c.jpg"
     }
-]}
+}]
