@@ -1,18 +1,30 @@
 [
     {
-        "contenuto":"UN FENOMENO UNICO<br>La proiezione perfetta dell’ombra della torre civica sul campanile",
+        "contenuto":{
+            "titolo":"UN FENOMENO UNICO",
+            "sottotitolo":"La proiezione perfetta dell’ombra della torre civica sul campanile"
+        },
         "immagine":"./image/copertinaCampanile.png"
     },
     {
-        "contenuto":"Sei sulla seconda pagina",
+        "contenuto":{
+            "titolo":"SECONDA",
+            "sottotitolo":"La proiezione perfetta dell’ombra della torre civica sul campanile"
+        },
         "immagine":"./image/videoEvento.mp4"
     },
     {
-        "contenuto":"Sei sulla terza pagina",
+        "contenuto":{
+            "titolo":"TERZA",
+            "sottotitolo":"La proiezione perfetta dell’ombra della torre civica sul campanile"
+        },
         "immagine":"./image/autore.png"
     },
     {
-        "contenuto":"Sei sulla quarta pagina",
+        "contenuto":{
+            "titolo":"QUARTA",
+            "sottotitolo":"La proiezione perfetta dell’ombra della torre civica sul campanile"
+        },
         "immagine":"./image/vistaTorre.jpg"
     }
 ]
