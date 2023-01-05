@@ -8,21 +8,21 @@
     },
     {
         "contenuto":{
-            "titolo":"SECONDA",
+            "titolo":"IL SOLSTIZIO D'INVERNO",
             "sottotitolo":"La proiezione perfetta dell’ombra della torre civica sul campanile"
         },
         "immagine":"./image/videoEvento.mp4"
     },
     {
         "contenuto":{
-            "titolo":"TERZA",
+            "titolo":"FRANCO GILETTA",
             "sottotitolo":"La proiezione perfetta dell’ombra della torre civica sul campanile"
         },
         "immagine":"./image/autore.png"
     },
     {
         "contenuto":{
-            "titolo":"QUARTA",
+            "titolo":"POCHI GIORNI..",
             "sottotitolo":"La proiezione perfetta dell’ombra della torre civica sul campanile"
         },
         "immagine":"./image/vistaTorre.jpg"
